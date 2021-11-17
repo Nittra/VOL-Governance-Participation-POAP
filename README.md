@@ -1,0 +1,2 @@
+# VOL-Governance-Participation-POAP
+Challenge Description Governance participation is key to the success of Volatility Protocol and it is a key aspect of being a contributing community participant. We want to recognize the early governance participants that supported Volatility Protocol. We will give the POAP to anyone that participated in a DAO prior to August 25th 2021. Can you capture the importance of DAO governance in a POAP?  Submission Requirements Must have VOL logo Capture the essence of governance
